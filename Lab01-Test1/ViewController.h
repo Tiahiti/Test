@@ -17,11 +17,25 @@
     IBOutlet UITextField *viewGoalJ4E1;
     IBOutlet UITextField *viewGoalJ5E1;
     
+    IBOutlet UITextField *viewPasseJ1E1;
+    IBOutlet UITextField *viewPasseJ2E1;
+    IBOutlet UITextField *viewPasseJ3E1;
+    IBOutlet UITextField *viewPasseJ4E1;
+    IBOutlet UITextField *viewPasseJ5E1;
+    
     IBOutlet UITextField *viewGoalJ1E2;
     IBOutlet UITextField *viewGoalJ2E2;
     IBOutlet UITextField *viewGoalJ3E2;
     IBOutlet UITextField *viewGoalJ4E2;
     IBOutlet UITextField *viewGoalJ5E2;
+    
+    IBOutlet UITextField *viewPasseJ1E2;
+    IBOutlet UITextField *viewPasseJ2E2;
+    IBOutlet UITextField *viewPasseJ3E2;
+    IBOutlet UITextField *viewPasseJ4E2;
+    IBOutlet UITextField *viewPasseJ5E2;
+    
+    IBOutlet UITextField *PeriodSelected;
 }
 
 
